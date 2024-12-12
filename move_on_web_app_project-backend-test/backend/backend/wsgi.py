@@ -8,7 +8,7 @@ https://docs.djangoproject.com/en/5.1/howto/deployment/wsgi/
 """
 12312312
 import os
-
+242424
 from django.core.wsgi import get_wsgi_application
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'backend.settings')
